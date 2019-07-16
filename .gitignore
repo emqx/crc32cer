@@ -31,3 +31,5 @@ ebin/
 env.mk
 rebar.lock
 .erlang.mk
+_build/
+erlang.mk
